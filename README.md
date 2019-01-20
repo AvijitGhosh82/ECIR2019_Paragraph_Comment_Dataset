@@ -1,4 +1,4 @@
-# ECIR2019: Paragraph-Comment Dataset
+# ECIR 2019: Paragraph-Comment Dataset
 
 The dataset comprises articles of two news groups, the Guardian and the New York Times. The dataset has the following three columns separated by tabs. 
 
