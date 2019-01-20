@@ -1,6 +1,6 @@
-# ECIR 2019: Paragraph-Comment Dataset
+# Public Sphere 2.0: Paragraph-Comment Dataset
 
-The dataset comprises articles of two news groups, the Guardian and the New York Times. The dataset has the following three columns separated by tabs. 
+This dataset comprises articles of two news groups, the Guardian and the New York Times. The dataset has the following three columns separated by tabs. 
 
 Paragraph Text,  Comment Text,  Relevance score of paragraph and comment
 
