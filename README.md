@@ -2,7 +2,7 @@
 
 The dataset comprises articles of two news groups, the Guardian and the New York Times. The dataset has the following three columns separated by tabs. 
 
-<Paragraph Text> <Comment Text> <Relevance score of paragraph and comment> 
+Paragraph Text,  Comment Text,  Relevance score of paragraph and comment
 
 Paragraph text refers to the content of a single paragraph in an article A.  
 
